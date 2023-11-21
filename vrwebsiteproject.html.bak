@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="vrwebsitepage.css">
+  <title>Document</title>
+ </head>
+ <body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
+	  <a class="navbar-brand" href="#"><img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-logo-img.png" class="vr-logo"/></a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	  </button>
+	  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+		<div class="navbar-nav ml-auto">
+		  <a class="nav-link active" id="color-text1" href="#">Home<span class="sr-only">(current)</span></a>
+		  <a class="nav-link" id="color-text2" href="#">Products</a>
+		  <a class="nav-link" id="color-text3" href="#">Recent Blogs</a>
+		  <a class="nav-link" id="color-text4" href="#">Delivary & payment</a>
+		</div>
+	  </div>
+	</nav>
+	<div class="background-vrimage d-flex flex-column justify-content-center">
+		<div class="text-center">
+			<h1 class="heading-firstpage mb-5">The Revolution in virtual reality</h1>
+			<button class="btn button">View More</button>
+		</div>
+	</div>
+	<div class="mt-5">
+		<h1 class="pl-5 main-headings">Features</h1>
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-md-4 text-center mb-5 mt-5">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/easy-connect-img.png" class="mb-3"/>
+					<h1 class="heading">Easy to connect</h1>
+					<p class="para">Instead of viewing a screen in front of them,users are immersed and able to interact with 3D worlds.</p>
+				</div>
+				<div class="col-12 col-md-4 text-center mb-5 mt-5">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-capability-img.png" class="mb-3"/>
+					<h1 class="heading">VR Capability</h1>
+					<p class="para">Virtual reality (VR) can create an environment similar to or completely different from the real world</p>
+				</div>
+				<div class="col-12 col-md-4 text-center mb-5 mt-5">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/video-games-img.png" class="mb-3"/>
+					<h1 class="heading">Video games</h1>
+					<p class="para">Ability to recognize hand motion,evolving interactions and gameplay in VR.</p>
+				</div>
+				<div class="col-12 col-md-4 text-center mb-5 mt-5">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/interaction-img.png" class="mb-3"/>
+					<h1 class="heading">Interaction</h1>
+					<p class="para">Interaction refers to the <span class="color-text">natural interactions</span> between the user and the virtual scene.</p>
+				</div>
+				<div class="col-12 col-md-4 text-center mb-5 mt-5">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/easy-play-img.png" class="mb-3"/>
+					<h1 class="heading">Easy to paly</h1>
+					<p class="para">In 360-degree video,the locations of viewers are fixed,viewers are limited to the angles captured by the cameras.</p>
+				</div>
+				<div class="col-12 col-md-4 text-center mb-5 mt-5">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/experience-img.png" class="mb-3"/>
+					<h1 class="heading">Awesome Experience</h1>
+					<p class="para">Virtual reality (VR) is a simulated Experience that can be similar to or completely different from the real world.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="mt-5">
+		<h1 class="pl-5 main-headings">Included VR Kit</h1>
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-md-4 mb-5 mt-5 text-center">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-kit-1-img.png" class="kit-image"/>
+					<p class="kit-para">Two Touch Controllers</p>
+				</div>
+				<div class="col-12 col-md-4 mb-5 mt-5 text-center">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-kit-2-img.png" class="kit-image"/>
+					<p class="kit-para">VR Headset</p>
+				</div>
+				<div class="col-12 col-md-4 mb-5 mt-5 text-center">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-kit-3-img.png" class="kit-image"/>
+					<p class="kit-para">Charging Cable</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="mt-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-md-5 mb-3 mt-3 text-center">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-optics-img.png" class="image-1"/>
+				</div>
+				<div class="col-12 col-md-7 mb-5 mt-5 text-center">
+					<h1 class="heading-two">Improved Optics</h1>
+					<p class="description">A virtual reality headset is a head-mounted device that provides virtual reality for the wearer</p>
+					<button class="btn button">Read More</button>
+				</div>
+				<div class="col-12 col-md-7 mb-3 mt-3 text-center order-md-4">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-controllers-img.png" class="image-1"/>
+				</div>
+				<div class="col-12 col-md-5 mt-5 mb-5 text-center order-md-3">
+					<h1 class="heading-two">Two Touch Controllers</h1>
+					<p class="description">Your Oculus Touch controllers are a pair of tracked controllers that give you a hand</p>
+					<button class="btn button">Read More</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div>
+		<h1 class="main-headings pl-5 mb-5">Products</h1>
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="p1">
+						hiiii
+					<div>
+				</div>
+				<div class="col-12">
+					<div class="p2">
+						hiiiii
+					<div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="mt-5">
+		<h1 class="main-headings pl-5 mb-5">Trending Blogs</h1>
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-md-6">
+					<div class="shadow mb-5">
+						<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-trending-blogs-1-img.png" class="w-100"/>
+						<div class="p-3">
+							<p class="blog-para">Amazon</p>
+							<p class="blog-paragraph">New Way to See the World.It is a simulated experience that can be completely different from the real world</p></p>
+							<a href="" class="link">READ MORE <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/></svg></a>
+						</div>
+					</div>
+				</div>
+				<div class="col-12 col-md-6">
+					<div class="shadow">
+						<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-trending-blogs-2-img.png" class="w-100"/>
+						<div class="p-3">
+							<p class="blog-para">Advertising</p>
+							<p class="blog-paragraph">The best one for you. Come experience the wonder of Google Earth in virtual reality</p>
+							<a href="" class="link">READ MORE <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/></svg></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="d-flex flex-row justify-content-end container mt-3">
+			<button class="btn btn-primary">View All</button>
+		</div>
+	</div>
+	
+	<div class="mt-5 contact-us">
+		<div class="container-fluid">
+			<div class="row pt-5 pb-5">
+				<div class="col-12 col-md-7 text-center order-md-2">
+					<h1 class="heading-contactus mb-3">Virtually Anything is Possible</h1>
+					<div class="d-flex flex-row justify-content-center mb-3">
+						<button class="btn btn-outline-light d-none d-md-block">Contact Us</button>
+					</div>
+				</div>
+				<div class="col-12 col-md-5 text-center order-md-1">
+					<img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-set-img.png" class="contactus-image"/>
+				</div>
+				<div class="col-12 text-center mt-3">
+					<button class="btn btn-outline-light d-md-none">Contact Us</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+ </body>
+</html>
